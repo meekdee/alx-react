@@ -1,5 +1,5 @@
 import React from 'react';
-import logo from './holberton-logo.png'; // Ensure the logo filename matches
+import logo from './holberton-logo.jpg'; // Ensure the logo filename matches
 import './App.css';
 
 function App() {
