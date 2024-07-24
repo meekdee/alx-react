@@ -12,6 +12,7 @@ function App() {
       <body className="App-body">
         <p>Login to access the full dashboard</p>
       </body>
+      <hr className='Divider'/>
       <footer className="App-footer">
         <p>Copyright 2020 - Holberton School</p>
       </footer>

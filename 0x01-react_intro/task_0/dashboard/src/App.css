@@ -8,19 +8,20 @@
 }
 
 .App-header {
-  background-color: #282c34;
+  background-color: #ffffff;
   min-height: 10vh;
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  color: white;
+  color: rgb(156, 23, 23);
 }
 
 .App-body {
   font-size: calc(10px + 2vmin);
   color: #282c34;
+  height: cover;
 }
 
 .App-footer {
@@ -34,8 +35,12 @@
   border-top: 1px solid #eaeaea;
 }
 
-
-
+.Divider {
+  border: none;
+  height: 5px; /* Adjust thickness as needed */
+  background-color: #282c34; /* Match the color to your design */
+  margin: 20px 0; /* Adjust spacing as needed */
+}
 
 
 /* .App {
