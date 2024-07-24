@@ -1,1 +1,1 @@
-Task 1 of React intro
+Task 2 of React intro
